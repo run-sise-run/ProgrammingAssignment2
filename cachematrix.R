@@ -1,7 +1,6 @@
 ## These functiones combine to store a matrix and its inverse in a "cache"
 ## to save time in calculating a matrix'sinverse  repeatedly.
 
-
 ## Creates a vector of callable functions to set, get the original matrix
 ## and to set and get that matrix's inverse, stored in variables outside this environment.
 
